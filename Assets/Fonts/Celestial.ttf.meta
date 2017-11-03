@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f7acd33c3544cca4394536158d74c50d
+timeCreated: 1502037605
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Celestial
+  fontNames:
+  - Celestial
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
